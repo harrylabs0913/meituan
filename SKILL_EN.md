@@ -1,5 +1,5 @@
 ---
-name: meituan
+name: meituan-ec
 description: "CLI tool for Meituan food delivery and local services - search restaurants, find coupons, and track red packets"
 ---
 
